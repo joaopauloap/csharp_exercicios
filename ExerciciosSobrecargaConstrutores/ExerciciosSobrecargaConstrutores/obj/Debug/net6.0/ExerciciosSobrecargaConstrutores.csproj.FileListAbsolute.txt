@@ -1,0 +1,5 @@
+C:\Users\jporto\Desktop\ExerciciosSobrecargaConstrutores\ExerciciosSobrecargaConstrutores\obj\Debug\net6.0\ExerciciosSobrecargaConstrutores.csproj.AssemblyReference.cache
+C:\Users\jporto\Desktop\ExerciciosSobrecargaConstrutores\ExerciciosSobrecargaConstrutores\obj\Debug\net6.0\ExerciciosSobrecargaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jporto\Desktop\ExerciciosSobrecargaConstrutores\ExerciciosSobrecargaConstrutores\obj\Debug\net6.0\ExerciciosSobrecargaConstrutores.AssemblyInfoInputs.cache
+C:\Users\jporto\Desktop\ExerciciosSobrecargaConstrutores\ExerciciosSobrecargaConstrutores\obj\Debug\net6.0\ExerciciosSobrecargaConstrutores.AssemblyInfo.cs
+C:\Users\jporto\Desktop\ExerciciosSobrecargaConstrutores\ExerciciosSobrecargaConstrutores\obj\Debug\net6.0\ExerciciosSobrecargaConstrutores.csproj.CoreCompileInputs.cache

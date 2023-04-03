@@ -1,0 +1,15 @@
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\bin\Debug\net6.0\ProjetoSeguros.exe
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\bin\Debug\net6.0\ProjetoSeguros.deps.json
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\bin\Debug\net6.0\ProjetoSeguros.runtimeconfig.json
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\bin\Debug\net6.0\ProjetoSeguros.dll
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\bin\Debug\net6.0\ProjetoSeguros.pdb
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\obj\Debug\net6.0\ProjetoSeguros.csproj.AssemblyReference.cache
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\obj\Debug\net6.0\ProjetoSeguros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\obj\Debug\net6.0\ProjetoSeguros.AssemblyInfoInputs.cache
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\obj\Debug\net6.0\ProjetoSeguros.AssemblyInfo.cs
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\obj\Debug\net6.0\ProjetoSeguros.csproj.CoreCompileInputs.cache
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\obj\Debug\net6.0\ProjetoSeguros.dll
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\obj\Debug\net6.0\refint\ProjetoSeguros.dll
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\obj\Debug\net6.0\ProjetoSeguros.pdb
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\obj\Debug\net6.0\ProjetoSeguros.genruntimeconfig.cache
+C:\Users\jporto\Desktop\Web\ProjetoSeguros\obj\Debug\net6.0\ref\ProjetoSeguros.dll

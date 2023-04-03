@@ -1,0 +1,15 @@
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\bin\Debug\net6.0\Exercicio4.exe
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\bin\Debug\net6.0\Exercicio4.deps.json
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\bin\Debug\net6.0\Exercicio4.runtimeconfig.json
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\bin\Debug\net6.0\Exercicio4.dll
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\bin\Debug\net6.0\Exercicio4.pdb
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.AssemblyReference.cache
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\obj\Debug\net6.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfo.cs
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\obj\Debug\net6.0\Exercicio4.dll
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\obj\Debug\net6.0\refint\Exercicio4.dll
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\obj\Debug\net6.0\Exercicio4.pdb
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\obj\Debug\net6.0\Exercicio4.genruntimeconfig.cache
+C:\Users\jporto\Desktop\ListaArquivo\Exercicio4\obj\Debug\net6.0\ref\Exercicio4.dll

@@ -1,0 +1,45 @@
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\bin\Debug\net6.0\exercicios-pt2.exe
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\bin\Debug\net6.0\exercicios-pt2.deps.json
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\bin\Debug\net6.0\exercicios-pt2.runtimeconfig.json
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\bin\Debug\net6.0\exercicios-pt2.dll
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\bin\Debug\net6.0\exercicios-pt2.pdb
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.csproj.AssemblyReference.cache
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.AssemblyInfoInputs.cache
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.AssemblyInfo.cs
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.csproj.CoreCompileInputs.cache
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.dll
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\obj\Debug\net6.0\refint\exercicios-pt2.dll
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.pdb
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.genruntimeconfig.cache
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios-pt2\obj\Debug\net6.0\ref\exercicios-pt2.dll
+C:\Users\JP\Desktop\exercicios-pt2\bin\Debug\net6.0\exercicios-pt2.exe
+C:\Users\JP\Desktop\exercicios-pt2\bin\Debug\net6.0\exercicios-pt2.deps.json
+C:\Users\JP\Desktop\exercicios-pt2\bin\Debug\net6.0\exercicios-pt2.runtimeconfig.json
+C:\Users\JP\Desktop\exercicios-pt2\bin\Debug\net6.0\exercicios-pt2.dll
+C:\Users\JP\Desktop\exercicios-pt2\bin\Debug\net6.0\exercicios-pt2.pdb
+C:\Users\JP\Desktop\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.csproj.AssemblyReference.cache
+C:\Users\JP\Desktop\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JP\Desktop\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.AssemblyInfoInputs.cache
+C:\Users\JP\Desktop\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.AssemblyInfo.cs
+C:\Users\JP\Desktop\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.csproj.CoreCompileInputs.cache
+C:\Users\JP\Desktop\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.dll
+C:\Users\JP\Desktop\exercicios-pt2\obj\Debug\net6.0\refint\exercicios-pt2.dll
+C:\Users\JP\Desktop\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.pdb
+C:\Users\JP\Desktop\exercicios-pt2\obj\Debug\net6.0\exercicios-pt2.genruntimeconfig.cache
+C:\Users\JP\Desktop\exercicios-pt2\obj\Debug\net6.0\ref\exercicios-pt2.dll
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\bin\Debug\net6.0\exercicios-pt2.exe
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\bin\Debug\net6.0\exercicios-pt2.deps.json
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\bin\Debug\net6.0\exercicios-pt2.runtimeconfig.json
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\bin\Debug\net6.0\exercicios-pt2.dll
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\bin\Debug\net6.0\exercicios-pt2.pdb
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\obj\Debug\net6.0\exercicios-pt2.csproj.AssemblyReference.cache
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\obj\Debug\net6.0\exercicios-pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\obj\Debug\net6.0\exercicios-pt2.AssemblyInfoInputs.cache
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\obj\Debug\net6.0\exercicios-pt2.AssemblyInfo.cs
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\obj\Debug\net6.0\exercicios-pt2.csproj.CoreCompileInputs.cache
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\obj\Debug\net6.0\exercicios-pt2.dll
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\obj\Debug\net6.0\refint\exercicios-pt2.dll
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\obj\Debug\net6.0\exercicios-pt2.pdb
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\obj\Debug\net6.0\exercicios-pt2.genruntimeconfig.cache
+C:\Users\jporto\Desktop\lista2-condicionais\lista2-condicionais\obj\Debug\net6.0\ref\exercicios-pt2.dll

@@ -1,0 +1,15 @@
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\bin\Debug\net6.0\ListaArquivo.exe
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\bin\Debug\net6.0\ListaArquivo.deps.json
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\bin\Debug\net6.0\ListaArquivo.runtimeconfig.json
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\bin\Debug\net6.0\ListaArquivo.dll
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\bin\Debug\net6.0\ListaArquivo.pdb
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\obj\Debug\net6.0\ListaArquivo.csproj.AssemblyReference.cache
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\obj\Debug\net6.0\ListaArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\obj\Debug\net6.0\ListaArquivo.AssemblyInfoInputs.cache
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\obj\Debug\net6.0\ListaArquivo.AssemblyInfo.cs
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\obj\Debug\net6.0\ListaArquivo.csproj.CoreCompileInputs.cache
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\obj\Debug\net6.0\ListaArquivo.dll
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\obj\Debug\net6.0\refint\ListaArquivo.dll
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\obj\Debug\net6.0\ListaArquivo.pdb
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\obj\Debug\net6.0\ListaArquivo.genruntimeconfig.cache
+C:\Users\jporto\Desktop\ListaArquivo\ListaArquivo\obj\Debug\net6.0\ref\ListaArquivo.dll

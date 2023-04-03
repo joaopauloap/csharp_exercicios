@@ -1,0 +1,15 @@
+C:\Users\jporto\Desktop\ListaClasseAbstrata\bin\Debug\net6.0\ListaClasseAbstrata.exe
+C:\Users\jporto\Desktop\ListaClasseAbstrata\bin\Debug\net6.0\ListaClasseAbstrata.deps.json
+C:\Users\jporto\Desktop\ListaClasseAbstrata\bin\Debug\net6.0\ListaClasseAbstrata.runtimeconfig.json
+C:\Users\jporto\Desktop\ListaClasseAbstrata\bin\Debug\net6.0\ListaClasseAbstrata.dll
+C:\Users\jporto\Desktop\ListaClasseAbstrata\bin\Debug\net6.0\ListaClasseAbstrata.pdb
+C:\Users\jporto\Desktop\ListaClasseAbstrata\obj\Debug\net6.0\ListaClasseAbstrata.csproj.AssemblyReference.cache
+C:\Users\jporto\Desktop\ListaClasseAbstrata\obj\Debug\net6.0\ListaClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jporto\Desktop\ListaClasseAbstrata\obj\Debug\net6.0\ListaClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\jporto\Desktop\ListaClasseAbstrata\obj\Debug\net6.0\ListaClasseAbstrata.AssemblyInfo.cs
+C:\Users\jporto\Desktop\ListaClasseAbstrata\obj\Debug\net6.0\ListaClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\jporto\Desktop\ListaClasseAbstrata\obj\Debug\net6.0\ListaClasseAbstrata.dll
+C:\Users\jporto\Desktop\ListaClasseAbstrata\obj\Debug\net6.0\refint\ListaClasseAbstrata.dll
+C:\Users\jporto\Desktop\ListaClasseAbstrata\obj\Debug\net6.0\ListaClasseAbstrata.pdb
+C:\Users\jporto\Desktop\ListaClasseAbstrata\obj\Debug\net6.0\ListaClasseAbstrata.genruntimeconfig.cache
+C:\Users\jporto\Desktop\ListaClasseAbstrata\obj\Debug\net6.0\ref\ListaClasseAbstrata.dll

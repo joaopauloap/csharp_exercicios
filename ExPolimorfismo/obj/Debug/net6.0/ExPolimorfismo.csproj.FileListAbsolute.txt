@@ -1,0 +1,15 @@
+C:\Users\jporto\Desktop\ExPolimorfismo\obj\Debug\net6.0\ExPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\jporto\Desktop\ExPolimorfismo\obj\Debug\net6.0\ExPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jporto\Desktop\ExPolimorfismo\obj\Debug\net6.0\ExPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\jporto\Desktop\ExPolimorfismo\obj\Debug\net6.0\ExPolimorfismo.AssemblyInfo.cs
+C:\Users\jporto\Desktop\ExPolimorfismo\obj\Debug\net6.0\ExPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\jporto\Desktop\ExPolimorfismo\bin\Debug\net6.0\ExPolimorfismo.exe
+C:\Users\jporto\Desktop\ExPolimorfismo\bin\Debug\net6.0\ExPolimorfismo.deps.json
+C:\Users\jporto\Desktop\ExPolimorfismo\bin\Debug\net6.0\ExPolimorfismo.runtimeconfig.json
+C:\Users\jporto\Desktop\ExPolimorfismo\bin\Debug\net6.0\ExPolimorfismo.dll
+C:\Users\jporto\Desktop\ExPolimorfismo\bin\Debug\net6.0\ExPolimorfismo.pdb
+C:\Users\jporto\Desktop\ExPolimorfismo\obj\Debug\net6.0\ExPolimorfismo.dll
+C:\Users\jporto\Desktop\ExPolimorfismo\obj\Debug\net6.0\refint\ExPolimorfismo.dll
+C:\Users\jporto\Desktop\ExPolimorfismo\obj\Debug\net6.0\ExPolimorfismo.pdb
+C:\Users\jporto\Desktop\ExPolimorfismo\obj\Debug\net6.0\ExPolimorfismo.genruntimeconfig.cache
+C:\Users\jporto\Desktop\ExPolimorfismo\obj\Debug\net6.0\ref\ExPolimorfismo.dll
